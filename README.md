@@ -19,6 +19,7 @@ Happy to accept PR's with better quality emojis or missing kittys.
 7. Lexy
 8. Mack
 9. Marshmellow
+10. Misty
 10. Patches
 11. Peaches
 12. Pickles
