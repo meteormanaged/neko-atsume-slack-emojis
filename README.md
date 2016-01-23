@@ -1,8 +1,14 @@
 # Neko Atsume Slack Emojis
 
-Neko Atsume Slack Emojis for all the enjoy.  Started by [@liz](https://github.com/liz).  Happy to accept PR's with better quality emojis or missing kittys.  
+Neko Atsume Slack Emojis for all the enjoy.  
+Started by [@liz](https://github.com/liz).  
+Happy to accept PR's with better quality emojis or missing kittys.  
 
-Cast of Characters Included:
+### How to add emojis to your Slack Team:
+
+[Link to Slack Article](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons)
+
+### Cast of Characters Included:
 
 1. Callie 
 2. Cocoa
@@ -25,8 +31,9 @@ Cast of Characters Included:
 19. Tubbs
 20. Xerxes
 
-To Do:
+### To Do:
 
 List of missing cats.
 
-License: No license.  We don't own this stuff.  Neither do you.  But it's just kitties for fun so hopefully no one will be in a huff about it.
+### License 
+No license.  We don't own this stuff.  Neither do you.  But it's just kitties for fun so hopefully no one will be in a huff about it.
