@@ -6,7 +6,7 @@ Happy to accept PR's with better quality emojis or missing kittys.
 
 ### How to add emojis to your Slack Team:
 
-[Link to Slack Article](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons)
+[Link to Slack Article](https://get.slack.help/hc/en-us/articles/206870177-Creating-custom-emoji)
 
 ### Cast of Characters Included:
 
