@@ -1,6 +1,7 @@
 # Neko Atsume Slack Emojis
 
-Neko Atsume Slack Emojis for all the enjoy.  
+![Slack example](https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/web/chat.png)
+
 Started by [@liz](https://github.com/liz).  
 Happy to accept PR's with better quality emojis or missing kitties.  
 
