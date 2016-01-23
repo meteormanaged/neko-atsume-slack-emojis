@@ -2,7 +2,7 @@
 
 Neko Atsume Slack Emojis for all the enjoy.  
 Started by [@liz](https://github.com/liz).  
-Happy to accept PR's with better quality emojis or missing kittys.  
+Happy to accept PR's with better quality emojis or missing kitties.  
 
 ### How to add emojis to your Slack Team:
 
@@ -24,6 +24,7 @@ Happy to accept PR's with better quality emojis or missing kittys.
 10. Patches
 11. Peaches
 12. Pickles
+13. Princess
 13. Pumpkin
 14. Rascal
 15. Snowball
