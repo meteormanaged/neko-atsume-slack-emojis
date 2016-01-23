@@ -1,6 +1,6 @@
 # Neko Atsume Slack Emojis
 
-Neko Atsume Slack Emojis for all the enjoy.  Started by @liz.  Happy to accept PR's with better quality emojis or missing kittys.  
+Neko Atsume Slack Emojis for all the enjoy.  Started by [@liz](https://github.com/liz).  Happy to accept PR's with better quality emojis or missing kittys.  
 
 Cast of Characters Included:
 
