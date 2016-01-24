@@ -11,7 +11,9 @@ Happy to accept PR's with better quality emojis or missing kitties.
 
 ### Cast of Characters Included:
 
-1. Callie 
+1. Bandit
+2. Bolt
+2. Callie
 2. Cocoa
 3. Dottie
 4. Fortune
@@ -20,7 +22,7 @@ Happy to accept PR's with better quality emojis or missing kitties.
 6. Gozer
 7. Lexy
 8. Mack
-9. Marshmellow
+9. Marshmallow
 10. Misty
 10. Patches
 11. Peaches
@@ -29,6 +31,7 @@ Happy to accept PR's with better quality emojis or missing kitties.
 13. Pumpkin
 14. Rascal
 15. Snowball
+17. Socks
 16. Speckles
 17. Sunny
 18. Tabitha
@@ -39,5 +42,5 @@ Happy to accept PR's with better quality emojis or missing kitties.
 
 List of missing cats.
 
-### License 
+### License
 No license.  We don't own this stuff.  Neither do you.  But it's just kitties for fun so hopefully no one will be in a huff about it.
