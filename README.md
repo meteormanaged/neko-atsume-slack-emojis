@@ -20,6 +20,7 @@ Happy to accept PR's with better quality emojis or missing kitties.
 3. Dottie
 4. Fortune
 5. Fred
+5. Gabriel
 6. Ginger
 6. Gozer
 7. Lexy
