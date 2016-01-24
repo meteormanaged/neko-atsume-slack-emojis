@@ -9,10 +9,10 @@ Happy to accept PR's with better quality emojis or missing kitties.
 
 [Link to Slack Article](https://get.slack.help/hc/en-us/articles/206870177-Creating-custom-emoji)
 
-### Cast of Characters Included:
+### The Kitties:
 
 1. Bandit
-2. Bob
+2. BobtheCat
 2. Bolt
 2. Callie
 2. Cocoa
