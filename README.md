@@ -26,10 +26,13 @@ Happy to accept PR's with better quality emojis or missing kitties.
 10. Misty
 10. Patches
 11. Peaches
+12. Pepper
 12. Pickles
 13. Princess
 13. Pumpkin
 14. Rascal
+15. Shadow
+17. Smokey
 15. Snowball
 17. Socks
 16. Speckles
